@@ -3,7 +3,7 @@
 
 <!--<p align="left"> <img align="right" alt="Coding" width="300" src= "https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">-->
   
-- 🔭 I’m currently working on a [Flutter application](https://github.com/AbuSuf1an/FlutterShopApp)
+- 🔭 I’m currently working on a [Flutter Application](https://github.com/AbuSuf1an/FlutterShopApp)
 
 - 🌱 I’m currently learning **Flutter**
 
