@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Flutter**
   
-- 🔭 I’m currently working on a [Flutter Application](https://github.com/AbuSuf1an/Beautiful-Places-App)
+- 🔭 Right now working on a [Flutter Application](https://github.com/AbuSuf1an/Beautiful-Places-App)
 
 - 📫 To reach me **mailtosufian@gmail.com**
 
