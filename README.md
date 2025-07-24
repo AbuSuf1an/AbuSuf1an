@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Abu Sufian</h1>
+<h1 align="center">Hi 👋, I'm Md. Abu Sufian</h1>
 <h3 align="center">A passionate Competitive Programmer & Mobile Developer</h3>
 
 <!--<p align="left"> <img align="right" alt="Coding" width="300" src= "https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">-->
