@@ -1,15 +1,9 @@
 <h1 align="center">Hi 👋, I'm Md. Abu Sufian</h1>
-<h3 align="center">A passionate Competitive Programmer & Mobile Developer</h3>
+<h3 align="center">A passionate Competitive Programmer</h3>
 
 <!--<p align="left"> <img align="right" alt="Coding" width="300" src= "https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">-->
 
-- 🌱 I’m currently learning **Flutter**
-  
-- 🔭 Right now working on a [Flutter Application](https://github.com/AbuSuf1an/Beautiful-Places-App)
-
 - 📫 To reach me **mailtosufian@gmail.com**
-
-- ⚡ Fun fact **Nobody is perfect and I am nobody**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
